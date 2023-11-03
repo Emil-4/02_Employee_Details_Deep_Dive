@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    text-align: center;
+    margin: auto;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.Head{
+    background-color: rgb(246, 242, 248);
+    text-shadow:  1px 1px 1px rgb(12, 12, 12);
+
+}
